@@ -1,0 +1,144 @@
+{
+    "venues": [
+      {
+        "id": 1,
+        "booking_id": 15,
+        "place": "baroto",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 2,
+        "booking_id": 20,
+        "place": "fastcrap",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 3,
+        "booking_id": 16,
+        "place": "baroto",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 4,
+        "booking_id": 11,
+        "place": "baroto",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 5,
+        "booking_id": 6,
+        "place": "fastcrap",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 6,
+        "booking_id": 14,
+        "place": "fastcrap",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 7,
+        "booking_id": 16,
+        "place": "noahs arc",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 8,
+        "booking_id": 1,
+        "place": "baroto",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 9,
+        "booking_id": 10,
+        "place": "baroto",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 10,
+        "booking_id": 15,
+        "place": "baroto",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 11,
+        "booking_id": 14,
+        "place": "fastcrap",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 12,
+        "booking_id": 11,
+        "place": "fastcrap",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 13,
+        "booking_id": 16,
+        "place": "baroto",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 14,
+        "booking_id": 5,
+        "place": "noahs arc",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 15,
+        "booking_id": 16,
+        "place": "noahs arc",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 16,
+        "booking_id": 2,
+        "place": "noahs arc",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 17,
+        "booking_id": 8,
+        "place": "noahs arc",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 18,
+        "booking_id": 4,
+        "place": "baroto",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 19,
+        "booking_id": 17,
+        "place": "noahs arc",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      },
+      {
+        "id": 20,
+        "booking_id": 12,
+        "place": "fastcrap",
+        "created_at": "2023-12-21T15:22:52.000000Z",
+        "updated_at": "2023-12-21T15:22:52.000000Z"
+      }
+    ]
+  }

@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Chasity Raynor",
+      "email": "kayley50@example.net",
+      "full_name": "Mr. Kendrick Nicolas",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 2,
+      "username": "Prof. Carmela Walsh",
+      "email": "caleigh60@example.org",
+      "full_name": "Laurence Lehner Sr.",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 3,
+      "username": "Dr. Joany Harris",
+      "email": "hodkiewicz.maurine@example.org",
+      "full_name": "Mrs. Hassie Carter PhD",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 4,
+      "username": "Eugenia Jenkins",
+      "email": "adrain.pfeffer@example.com",
+      "full_name": "Otha Ward",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 5,
+      "username": "Dr. Era Pacocha",
+      "email": "khalid89@example.net",
+      "full_name": "Dr. Elda Howell",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 6,
+      "username": "Aurelie Buckridge",
+      "email": "gladys62@example.com",
+      "full_name": "Dina Conroy IV",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 7,
+      "username": "Amaya Reichert PhD",
+      "email": "vcrist@example.org",
+      "full_name": "Dr. Waldo Sawayn",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 8,
+      "username": "Duane Kuhlman",
+      "email": "jessika82@example.org",
+      "full_name": "Prof. Leone Carroll Jr.",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 9,
+      "username": "Dr. Asia Kerluke III",
+      "email": "mhane@example.net",
+      "full_name": "Therese Metz",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 10,
+      "username": "Dr. Patricia Fadel III",
+      "email": "felipa.ebert@example.org",
+      "full_name": "Zena Osinski",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 11,
+      "username": "Ms. Cleta Stoltenberg DVM",
+      "email": "initzsche@example.net",
+      "full_name": "Prof. Lorenza Brakus Jr.",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 12,
+      "username": "Paxton Tillman",
+      "email": "alyson.ziemann@example.net",
+      "full_name": "Ms. Veronica Jakubowski",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 13,
+      "username": "Mr. Rene Von Jr.",
+      "email": "ywill@example.com",
+      "full_name": "Orin Roberts",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 14,
+      "username": "Ms. Kimberly Miller PhD",
+      "email": "clara98@example.net",
+      "full_name": "Tiara Bernier",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 15,
+      "username": "Dr. Kay Rolfson DDS",
+      "email": "tomas24@example.net",
+      "full_name": "Marisa Fadel",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 16,
+      "username": "Prof. Jailyn Walker Sr.",
+      "email": "allan68@example.net",
+      "full_name": "Lilly Stoltenberg",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 17,
+      "username": "Miss Hollie Kutch Sr.",
+      "email": "rohan.meredith@example.net",
+      "full_name": "Jaycee Wuckert",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 18,
+      "username": "Velva Kerluke",
+      "email": "zchristiansen@example.org",
+      "full_name": "Mrs. Cathy Rice",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 19,
+      "username": "Dayna Kunde",
+      "email": "sprosacco@example.org",
+      "full_name": "Mrs. Billie Kunze",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    },
+    {
+      "id": 20,
+      "username": "Dr. Cristopher Senger",
+      "email": "ngerhold@example.org",
+      "full_name": "Deshaun Gislason",
+      "created_at": "2023-12-21T15:22:52.000000Z",
+      "updated_at": "2023-12-21T15:22:52.000000Z"
+    }
+  ]
+}
